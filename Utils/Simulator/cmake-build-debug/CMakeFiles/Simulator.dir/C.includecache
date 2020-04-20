@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/marcelochsendorf/Desktop/gigatron-rom/Utils/Simulator/main.c
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

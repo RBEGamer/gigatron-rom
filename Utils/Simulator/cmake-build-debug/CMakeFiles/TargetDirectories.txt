@@ -1,0 +1,3 @@
+/Users/marcelochsendorf/Desktop/gigatron-rom/Utils/Simulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/marcelochsendorf/Desktop/gigatron-rom/Utils/Simulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcelochsendorf/Desktop/gigatron-rom/Utils/Simulator/cmake-build-debug/CMakeFiles/Simulator.dir
